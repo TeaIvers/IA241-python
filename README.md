@@ -1,1 +1,8 @@
-# IA241-python
+'''
+lec 2
+numbers, strings, and variables
+'''
+
+print('hello')
+
+
