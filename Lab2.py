@@ -16,3 +16,6 @@ print(my_name+my_id_str)
 my_name*3 
 print(my_name*3) 
 print('hello,world. This is my first python string'.split(".")) 
+#message='Tom's id is 123' 
+
+
