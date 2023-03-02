@@ -47,4 +47,4 @@ my_tweet= {
 result=0
 for word in my_tweet ['entities']['hashtags']:
     result=result+1
-print(result)
+print(result) 
